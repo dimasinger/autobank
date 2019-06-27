@@ -1,6 +1,6 @@
 module Main where
 
-import Lib
+import Config
 
 main :: IO ()
-main = someFunc
+main = putStrLn "???"

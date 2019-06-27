@@ -3,7 +3,28 @@
 # For more information, please see the documentation at:
 #   https://docs.haskellstack.org/en/stable/lock_files
 
-packages: []
+packages:
+- completed:
+    hackage: ConfigFile-1.1.4@sha256:ca56261e1deae6ef958a337b03812987bfd94ab37b047e27f262bc3137813165,2056
+    pantry-tree:
+      size: 1016
+      sha256: 58c2dbae1878d8f5bcac2848712ccfe90391bb1e6b719f43d044ead6c496f748
+  original:
+    hackage: ConfigFile-1.1.4
+- completed:
+    hackage: gogol-core-0.4.0@sha256:764a6648535bf2e248c220fe85d4d63fa4c21f896e7f0e23322b2bb8cc3e81c6,2821
+    pantry-tree:
+      size: 686
+      sha256: fe48ec7650b34c6dd5d66791f099e55e5c80be3d73a5db1403f5eaa6a014ca32
+  original:
+    hackage: gogol-core-0.4.0
+- completed:
+    hackage: gogol-sheets-0.4.0@sha256:84a3aeeac826a4069f624d7b76cd90d55464f0e95a01b89e2e503dd8ead759c2,2594
+    pantry-tree:
+      size: 2409
+      sha256: fe33c36bc7e2feed329ab83f51b9db5d82da230ce1734024e3aa648b9ec8f421
+  original:
+    hackage: gogol-sheets-0.4.0
 snapshots:
 - completed:
     size: 499889
